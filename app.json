@@ -2,7 +2,7 @@
 {
     "name": "KING-𝚂𝙿𝙰𝙼-𝙱𝙾𝚃",
     "description": "MOST POWERFUL + STABLE SPAMBOTS",
-    "logo": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
+    "logo": "https://telegra.ph/file/f16ec12ab36582b3902fb.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -11,28 +11,28 @@
         "SpamBots"
     ],
     "repository": "https://github.com/WCGKING/KINGSPAM",
-    "website": "https://t.me/BRANDED_KHUSHI",
-    "success_url": "https://t.me/BRANDED_WORLD",
+    "website": "https://t.me/all_about_naru",
+    "success_url": "https://t.me/all_about_naru",
     "env": {
              "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "26319490",
+        "value": "22949653",
         "required": true
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "https://te.legra.ph/file/2e2f78610814092d61103.jpg",
-        "required": false
+        "value": "https://telegra.ph/file/84870d6d89b893e59c5f0.jpg",
+        "required": true
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "e99518c312bd6fcb3e8643bf55e3a339",
+        "value": "d99e42b17cfd29246629c65c61fe2704",
         "required": true
       },
      "CMD_HNDLR": {
             "description": "Custom command handler.",
             "value": "!",
-            "required": false
+            "required": true
         },
       "BOT_TOKEN": {
         "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
@@ -86,7 +86,7 @@
       },
       "OWNER_ID": {
             "description": "owner Id",
-            "value": "6258877205",
+            "value": "5473771943",
             "required": true
         }
     },
